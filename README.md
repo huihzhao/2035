@@ -36,3 +36,6 @@ typora-copy-images-to: ./assets/pictures
 
 我希望首先是支持中文和英文，这两种语言会覆盖全球很大一部分读者和创作者，如果你愿意贡献你的语言，我非常欢迎你参与本地化工作。 
 
+## gitbook地址
+https://hui-h-zhao.gitbook.io/2035/readme
+
