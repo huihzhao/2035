@@ -30,6 +30,7 @@ typora-copy-images-to: ./assets/pictures
 | 王蓓     | 火星   | Base Main | 全息AR调教师                   | 增强型阿尔法 |
 | Bryan    | 地球   | Huston    | Space Center空天防御系统工程师 | 人类         |
 | Onkel G  | Europa | 1437ß     | 移民所负责人                   | 增强型贝塔   |
+|          |        |           |                                |              |
 
 
 
